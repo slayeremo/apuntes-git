@@ -1,2 +1,6 @@
 ### Git log
-Muestra el historial de commits 
+Muestra el todo el  historial de commits
+
+```
+ git commit --amend
+```

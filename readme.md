@@ -1,5 +1,5 @@
 ## CURSO Git desde cero
-Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
+
 
 ### Xonas de git
 1. Directorio de trabajo

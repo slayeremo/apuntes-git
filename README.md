@@ -20,3 +20,5 @@ git config --list
 ```
 
 Esta linea fue creada en la rama master
+
+Puedo crear todas las ramas que necesite

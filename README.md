@@ -19,4 +19,4 @@ git config --global core.editor atom
 git config --list
 ```
 
-#
+Esta linea fue creada en la rama master
